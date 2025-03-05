@@ -1,2 +1,2 @@
-# medical_image_data_merge_challenge_1
+# Medical Image Data Merge Challenge
 ### Contributor: Sabina Ku
